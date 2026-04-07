@@ -1,0 +1,6 @@
+venv/
+*/venv/*
+
+python-for-ai.code-workspace
+*.code-workspace
+*.code-workspace*
