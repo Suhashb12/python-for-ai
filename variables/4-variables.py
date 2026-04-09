@@ -20,3 +20,6 @@ name = "Alice"
 age = 25
 name
 age
+
+print (name)
+print (age)

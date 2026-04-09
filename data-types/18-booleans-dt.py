@@ -46,7 +46,7 @@ print(age >= 25)     # True - greater or equal
 print(age <= 25)     # True - less or equal
 
 #  Remember: = assigns a value, while == compares values. This is a common source of bugs!
-​
+
 """-------------------------------------------------------------------------"""
 """Common mistakes """
 """Wrong capitalization"""
