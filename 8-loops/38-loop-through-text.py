@@ -13,3 +13,8 @@ for letter in name:
 # h
 # o
 # n
+
+
+name = "Python"
+for letter in name:
+    print(letter.lower())

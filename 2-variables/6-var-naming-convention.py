@@ -1,5 +1,5 @@
 """
-In Python, we use lowercase letters with underscores between words. This is called “snake_case” and it’s the standard way to name variables in Python.
+In Python, we use lowercase letters with underscores between words. This is called “snake_case” and it's the standard way to name variables in Python.
 """
 # Good Python style
 first_name = "Alice"

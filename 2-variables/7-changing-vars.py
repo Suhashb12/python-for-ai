@@ -1,5 +1,5 @@
 """
-Variables can change (that’s why they’re called variables!):
+Variables can change (that's why they're called variables!):
 """
 
 # Start with one value

@@ -1,6 +1,6 @@
 # Allowed
-user_name = "Dave"      # lowercase with underscores (Python style)
-userName = "Dave"       # camelCase (works but not Python style)
+user_name = "Dave"     # lowercase with underscores (Python style)
+userName = "Dave"      # camelCase (works but not Python style)
 age2 = 30              # numbers are OK (not at start)
 _private = "secret"    # underscore at start is OK
 
