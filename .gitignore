@@ -101,3 +101,5 @@ target/
 
 .vscode/
 .vscode*
+
+user-add.sh
