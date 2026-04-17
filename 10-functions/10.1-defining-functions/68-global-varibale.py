@@ -3,7 +3,7 @@ Global variables
 Variables created outside functions can be accessed anywhere:
 """
 
-
+price = 1000
 discount_rate = 0.15  # Global variable
 
 def apply_discount(price):
@@ -12,4 +12,3 @@ def apply_discount(price):
 
 result = apply_discount(100)
 print(result)  # 85.0
-

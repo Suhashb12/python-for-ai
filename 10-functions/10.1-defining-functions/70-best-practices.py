@@ -1,8 +1,7 @@
 """
 Best practice: Use parameters and returns
-# Bad - using global variable
 """
-
+# Bad - using global variable
 total = 0
 
 def add_to_total(amount):
