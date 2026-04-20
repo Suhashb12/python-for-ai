@@ -17,5 +17,7 @@ total = double(5) + double(3)  # 10 + 6 = 16
 print(double(10))  # 20
 
 # Use in conditions
-if double(7) > 10:
+if double(7) > 110:
     print("Big number!")
+else:
+    print("Small number!")
