@@ -60,6 +60,7 @@ plt.ylabel('Temperature (°C)')
 plt.title('Paris Weather - Past 7 Days')
 plt.legend()
 
+plt.grid(True, alpha=0.3)
 # Rotate x-axis labels for readability
 plt.xticks(rotation=45)
 plt.tight_layout()
